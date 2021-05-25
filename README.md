@@ -1,2 +1,2 @@
 # Redes_Sockets
-Estudos de redes utilinzando Sockets e multithreading
+Estudos de redes utilizando Sockets e multithreading
